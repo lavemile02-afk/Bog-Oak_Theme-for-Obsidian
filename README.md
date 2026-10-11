@@ -1,5 +1,7 @@
 # Bog Oak
 
+![Bog Oak](screenshots/cover-large.png)
+
 An earthy, "dark academia" theme for [Obsidian](https://obsidian.md): old paper in light mode, walnut brown in dark mode, moss-green accents and a Kombu-green window frame.
 
 Bog oak is wood that has lain for centuries in a peat bog, slowly darkening into a deep brown. This theme borrows that palette: peat, moss, lichen, ochre and brick.
